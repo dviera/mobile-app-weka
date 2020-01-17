@@ -6,3 +6,6 @@ Folders:
 - data: include fake data
 - WekaLM: android application
 - WekaKMJavaModel: linear regression model trained using the java weka api
+
+
+![](Screenshot.png)
