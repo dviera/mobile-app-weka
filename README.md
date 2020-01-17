@@ -7,6 +7,4 @@ Folders:
 - WekaLM: android application
 - WekaKMJavaModel: linear regression model trained using the java weka api
 
-
-![](Screenshot.png)
-<img src="Screenshot.png"  width="120" height="120">
+<img src="Screenshot.png"  width="300">
