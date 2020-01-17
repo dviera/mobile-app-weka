@@ -9,3 +9,4 @@ Folders:
 
 
 ![](Screenshot.png)
+<img src="Screenshot.png"  width="120" height="120">
