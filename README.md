@@ -7,4 +7,4 @@ Folders:
 - WekaLM: android application
 - WekaKMJavaModel: linear regression model trained using the java weka api
 
-<img src="Screenshot.png" align="middle" width="300">
+<p align="center"> <img src="Screenshot.png" width="300"></p>
